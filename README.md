@@ -1,4 +1,6 @@
 # Stratascratch-Solutions
+
+Solutions to **Easy** StrataScratch Problems:
  
 | # | Title | Solution Link |
 | :---:         |     :---:      |          :---: |
