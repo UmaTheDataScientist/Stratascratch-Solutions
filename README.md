@@ -14,3 +14,4 @@ Solutions to SQL StrataScratch Problems:
 |8|Three Purchases|[SQL Solution](https://github.com/UmaTheDataScientist/Stratascratch-Solutions/blob/main/Three%20Purchases.sql)
 |9|Active Users Per Platform| [SQL Solution](https://github.com/UmaTheDataScientist/Stratascratch-Solutions/blob/main/Active%20Users%20Per%20Platform.sql)|
 |10|Completed Tasks|[SQL Solution](https://github.com/UmaTheDataScientist/Stratascratch-Solutions/blob/main/Completed%20Tasks.sql)|
+|11|Submission Types|[SQL Solution](https://github.com/UmaTheDataScientist/Stratascratch-Solutions/blob/main/Submission%20Types.sql)|
