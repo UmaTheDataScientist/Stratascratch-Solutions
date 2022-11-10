@@ -4,8 +4,8 @@ Solutions to SQL StrataScratch Problems:
  
 | # | Title | Solution Link |
 | :---:         |     :---:      |          :---: |
-| 1   | Salaries Differences     |  [SQL Solution](https://github.com/umaraj033107/Stratascratch-Solutions/blob/main/Salaries%20Differences.sql)  |
-| 2     | Employees With Bonuses       | [SQL Solution](https://github.com/umaraj033107/Stratascratch-Solutions/blob/main/Employees%20With%20Bonuses.sql)     |
+|1|Salaries Differences| [SQL Solution](https://github.com/umaraj033107/Stratascratch-Solutions/blob/main/Salaries%20Differences.sql)  |
+|2|Employees With Bonuses|[SQL Solution](https://github.com/umaraj033107/Stratascratch-Solutions/blob/main/Employees%20With%20Bonuses.sql)     |
 |3|Total AdWords Earnings|[SQL Solution](https://github.com/umaraj033107/Stratascratch-Solutions/blob/main/Total%20AdWords%20Earnings.sql)|
 |4|Duplicate Training Lessons|[SQL Solution](https://github.com/UmaTheDataScientist/Stratascratch-Solutions/blob/main/Duplicate%20Training%20Lessons.sql)|
 |5|Manager of the Largest Department|[SQL Solution](https://github.com/UmaTheDataScientist/Stratascratch-Solutions/blob/main/Manager%20of%20the%20Largest%20Department.sql)|
@@ -15,3 +15,4 @@ Solutions to SQL StrataScratch Problems:
 |9|Active Users Per Platform| [SQL Solution](https://github.com/UmaTheDataScientist/Stratascratch-Solutions/blob/main/Active%20Users%20Per%20Platform.sql)|
 |10|Completed Tasks|[SQL Solution](https://github.com/UmaTheDataScientist/Stratascratch-Solutions/blob/main/Completed%20Tasks.sql)|
 |11|Submission Types|[SQL Solution](https://github.com/UmaTheDataScientist/Stratascratch-Solutions/blob/main/Submission%20Types.sql)|
+|12|Employee and Manager Salaries|[SQL Solution](https://github.com/UmaTheDataScientist/Stratascratch-Solutions/blob/main/Employee%20and%20Manager%20Salaries.sql)
