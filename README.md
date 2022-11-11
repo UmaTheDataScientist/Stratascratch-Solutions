@@ -16,3 +16,7 @@ Solutions to SQL StrataScratch Problems:
 |10|Completed Tasks|[SQL Solution](https://github.com/UmaTheDataScientist/Stratascratch-Solutions/blob/main/Completed%20Tasks.sql)|
 |11|Submission Types|[SQL Solution](https://github.com/UmaTheDataScientist/Stratascratch-Solutions/blob/main/Submission%20Types.sql)|
 |12|Employee and Manager Salaries|[SQL Solution](https://github.com/UmaTheDataScientist/Stratascratch-Solutions/blob/main/Employee%20and%20Manager%20Salaries.sql)
+|13|Session Type Duration|[SQL Solution](https://github.com/UmaTheDataScientist/Stratascratch-Solutions/blob/main/Session%20Type%20Duration.sql)
+|14|Finding Updated Records|[SQL Solution](https://github.com/UmaTheDataScientist/Stratascratch-Solutions/blob/main/Finding%20Updated%20Records.sql)
+|15|Average Salaries|[SQL Solution](https://github.com/UmaTheDataScientist/Stratascratch-Solutions/blob/main/Average%20Salaries.sql)
+|16|Activity Rank|[SQL Solution](https://github.com/UmaTheDataScientist/Stratascratch-Solutions/blob/main/Activity%20Rank.sql)
