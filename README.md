@@ -21,3 +21,4 @@ Solutions to SQL StrataScratch Problems:
 |15|Average Salaries|[SQL Solution](https://github.com/UmaTheDataScientist/Stratascratch-Solutions/blob/main/Average%20Salaries.sql)
 |16|Activity Rank|[SQL Solution](https://github.com/UmaTheDataScientist/Stratascratch-Solutions/blob/main/Activity%20Rank.sql)
 |17|User Email Labels|[SQL Solution](https://github.com/UmaTheDataScientist/Stratascratch-Solutions/blob/main/User%20Email%20Labels.sql)
+|18|Distances Traveled|[SQL Solution](https://github.com/UmaTheDataScientist/Stratascratch-Solutions/blob/main/Distances%20Traveled.sql)
