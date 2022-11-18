@@ -22,3 +22,4 @@ Solutions to SQL StrataScratch Problems:
 |16|Activity Rank|[SQL Solution](https://github.com/UmaTheDataScientist/Stratascratch-Solutions/blob/main/Activity%20Rank.sql)
 |17|User Email Labels|[SQL Solution](https://github.com/UmaTheDataScientist/Stratascratch-Solutions/blob/main/User%20Email%20Labels.sql)
 |18|Distances Traveled|[SQL Solution](https://github.com/UmaTheDataScientist/Stratascratch-Solutions/blob/main/Distances%20Traveled.sql)
+|19|Risky Projects|[SQL Solution](https://github.com/UmaTheDataScientist/Stratascratch-Solutions/blob/main/Risky%20Projects.sql)
