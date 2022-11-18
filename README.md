@@ -23,3 +23,6 @@ Solutions to SQL StrataScratch Problems:
 |17|User Email Labels|[SQL Solution](https://github.com/UmaTheDataScientist/Stratascratch-Solutions/blob/main/User%20Email%20Labels.sql)
 |18|Distances Traveled|[SQL Solution](https://github.com/UmaTheDataScientist/Stratascratch-Solutions/blob/main/Distances%20Traveled.sql)
 |19|Risky Projects|[SQL Solution](https://github.com/UmaTheDataScientist/Stratascratch-Solutions/blob/main/Risky%20Projects.sql)
+|20|Popularity of Hack|[SQL Solution](https://github.com/UmaTheDataScientist/Stratascratch-Solutions/blob/main/Popularity%20of%20Hack.sql)
+|21|Customer Revenue In March|[SQL Solution](https://github.com/UmaTheDataScientist/Stratascratch-Solutions/blob/main/Customer%20Revenue%20In%20March.sql)
+|22|Highest Energy Consumption|[SQL Solution](https://github.com/UmaTheDataScientist/Stratascratch-Solutions/blob/main/Highest%20Energy%20Consumption.sql)
