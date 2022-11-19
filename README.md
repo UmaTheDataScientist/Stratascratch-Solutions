@@ -26,3 +26,4 @@ Solutions to SQL StrataScratch Problems:
 |20|Popularity of Hack|[SQL Solution](https://github.com/UmaTheDataScientist/Stratascratch-Solutions/blob/main/Popularity%20of%20Hack.sql)
 |21|Customer Revenue In March|[SQL Solution](https://github.com/UmaTheDataScientist/Stratascratch-Solutions/blob/main/Customer%20Revenue%20In%20March.sql)
 |22|Highest Energy Consumption|[SQL Solution](https://github.com/UmaTheDataScientist/Stratascratch-Solutions/blob/main/Highest%20Energy%20Consumption.sql)
+|23|Users By Average Session Time|[SQL Solution](https://github.com/UmaTheDataScientist/Stratascratch-Solutions/blob/main/Users%20By%20Average%20Session%20Time.sql)
