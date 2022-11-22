@@ -5,8 +5,8 @@ Solutions to SQL StrataScratch Problems:
 | # | Title | SQL Solution Link |Python Solution Link |
 | :---:         |     :---:      |          :---: |          :---:|
 |1|Salaries Differences| [SQL Solution](https://github.com/umaraj033107/Stratascratch-Solutions/blob/main/Salaries%20Differences.sql)  |[Python Solution](https://github.com/UmaTheDataScientist/Stratascratch-Solutions/blob/main/Salaries%20Differences.py)
-|2|Employees With Bonuses|[SQL Solution](https://github.com/umaraj033107/Stratascratch-Solutions/blob/main/Employees%20With%20Bonuses.sql)     |
-|3|Total AdWords Earnings|[SQL Solution](https://github.com/umaraj033107/Stratascratch-Solutions/blob/main/Total%20AdWords%20Earnings.sql)|
+|2|Employees With Bonuses|[SQL Solution](https://github.com/umaraj033107/Stratascratch-Solutions/blob/main/Employees%20With%20Bonuses.sql)     |[Python Solution](https://github.com/UmaTheDataScientist/Stratascratch-Solutions/blob/main/Employees%20With%20Bonuses.py)
+|3|Total AdWords Earnings|[SQL Solution](https://github.com/umaraj033107/Stratascratch-Solutions/blob/main/Total%20AdWords%20Earnings.sql)|[Python Solution](https://github.com/UmaTheDataScientist/Stratascratch-Solutions/blob/main/Total%20AdWords%20Earnings.py)|
 |4|Duplicate Training Lessons|[SQL Solution](https://github.com/UmaTheDataScientist/Stratascratch-Solutions/blob/main/Duplicate%20Training%20Lessons.sql)|
 |5|Manager of the Largest Department|[SQL Solution](https://github.com/UmaTheDataScientist/Stratascratch-Solutions/blob/main/Manager%20of%20the%20Largest%20Department.sql)|
 |6|Responsible for Most Customers|[SQL Solution](https://github.com/UmaTheDataScientist/Stratascratch-Solutions/blob/main/Responsible%20for%20Most%20Customers.sql)
