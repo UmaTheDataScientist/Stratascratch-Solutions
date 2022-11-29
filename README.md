@@ -27,3 +27,4 @@ Solutions to SQL StrataScratch Problems:
 |21|Customer Revenue In March|[SQL Solution](https://github.com/UmaTheDataScientist/Stratascratch-Solutions/blob/main/Customer%20Revenue%20In%20March.sql)
 |22|Highest Energy Consumption|[SQL Solution](https://github.com/UmaTheDataScientist/Stratascratch-Solutions/blob/main/Highest%20Energy%20Consumption.sql)
 |23|Users By Average Session Time|[SQL Solution](https://github.com/UmaTheDataScientist/Stratascratch-Solutions/blob/main/Users%20By%20Average%20Session%20Time.sql)
+|24|Total Cost Of Orders|[SQL Solution](https://github.com/UmaTheDataScientist/Stratascratch-Solutions/blob/main/Total%20Cost%20Of%20Orders.sql)|
